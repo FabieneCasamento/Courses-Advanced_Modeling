@@ -1,9 +1,11 @@
-- Cursos da UDEMY :
+Cursos da UDEMY :
 
 - Modelo ARIMA, utilizando o programa pyhton
 
 
-Curso Cassandra
+
+
+Curso Cassandra:
 
 - Marketing Mix Modeling
 
