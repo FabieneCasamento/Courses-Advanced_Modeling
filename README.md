@@ -2,6 +2,7 @@ Cursos da UDEMY :
 
 - Modelo ARIMA, utilizando o programa pyhton
 
+- Modelo de Previsão Prophet
 
 
 
